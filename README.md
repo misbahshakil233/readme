@@ -1,4 +1,4 @@
-# readmeWeb and Mobile App Documentation
+# Web and Mobile App Documentation
 
 "Our web and mobile app simplifies offering intuitive tools for enhanced efficiency and organization."
 
